@@ -71,12 +71,3 @@ docker compose up
 ## ✅ Live GitHub Actions Status
 
 ![CI](https://github.com/SanjanaReddySangam/deployment-rollback-demo/actions/workflows/deploy.yml/badge.svg)
-
----
-
-## 🧠 What You Learn
-
-- GitHub Actions workflow creation
-- Conditional logic in CI pipelines
-- Docker ARG and dynamic builds
-- Health checking and rollback strategy
